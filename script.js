@@ -13,7 +13,7 @@ function getISTNow() {
   return new Date(utc + 5.5 * 60 * 60 * 1000);
 }
 
-const targetDate = new Date("2026-01-13T21:15:00");
+const targetDate = new Date("2026-01-13T21:30:00");
 
 // =============================
 // COUNTDOWN LOGIC
